@@ -69,12 +69,12 @@ Use 'number+'.'' shows ordered lists.
 1. single 'enter' represents space, not newline  
 2. continous 'enter' can get a new line  
 3. And you can use two space in the end of the line, then one 'enter' can realize a newline.  
+
 **For example**:  
 Hello world!  
 Have a good time!  
 or  
 hello world!
-
 
 Have a good time!  
 
