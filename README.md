@@ -124,13 +124,13 @@ use the following format:
 ***  
 ### Link  
 * Text link  
-rule of linking sites: [link name](the site of link "link title")
+rule of linking sites: `[link name](the site of link "link title")`
 ```
 1. [baidu](http://www.baidu.com "baidu")
 ```  
 **For example**:  
 [baidu](http://www.baidu.com "baidu")  
-rule of linking headers in the same file: [link name](#header)  
+rule of linking headers in the same file: `[link name](#header)`  
 **Note**: the contents of the brackets must lower letters ，and space must be replaced by `-`or`+`or`%20`  
 ```
 1. [Content](#content)  
