@@ -15,7 +15,12 @@ QQ: 2360889142**
 	* [Header](#header)  
 	* [List](#list)  
 		* Unordered list
-		* ordered list
+		* ordered list  
+	* [Text format](#text-format)
+		* Bold  
+		* Italic  
+		* Bold + italic  
+		* delect  
 	
 	
 
@@ -79,6 +84,40 @@ hello world!
 Have a good time!  
 
 ***
+### Text format  
+* Bold  
+You can use the following formats:  
+```
+1. **Bold**  
+2. __Bold__  
+```  
+**For example**:  
+**Bold**  
+__Bold__  
+* Italic  
+Use the following formats:
+```
+1. *Italic*  
+2. _Italic_  
+```  
+* Bold+italic  
+Use the following formats:  
+```
+1. ***Bolditalic***  
+2. ___Bolditalic___  
+```  
+**For example**:  
+***Bolditalic***  
+___Bolditalic___  
+* delect  
+use the following format:  
+```
+~~delect~~  
+```  
+**For example**:  
+~~delect~~  
+
+***  
 
 
 ***
