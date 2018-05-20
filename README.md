@@ -25,7 +25,14 @@ QQ: 2360889142**
 		* Text link  
 		* Image link  
 		* Image link site
-		* Indirectly link
+		* Indirectly link  
+	* [Cite](#cite)  
+	* [Horizontal divided line](#horizontal-divided-line)  
+	* [Code block](#code-block)  
+	* [Table](#table)  
+	* [Escape character](#escape-character)
+	
+	
 	
 	
 	
@@ -167,8 +174,57 @@ rule :
 ```  
 **For example**:  
 [baidu][123]  
-
 [123]: http://www.baidu.com "click baidu, knowe everything"  
+### Cite  
+```
+1. > level1 cite  
+2. >> level2 cite 
+3. >>> level3 cite  
+```  
+**For example**:  
+> level1 cite  
+>> level2 cite  
+>>> level3 cite  
+### Horizontal divided line  
+There are three forms:  
+```
+1. ---  
+2. ___  
+3. ***  
+```  
+**For example**:  
+---  
+***  
+___  
+### Code block  
+* code sentence  
+Use symbol '\' \''  
+**For example**:  
+`This is a code sentence.`  
+* code block  
+use symbol `\'\'\'  \'\'\'`  
+```
+This is a code sentence.  
+There is also a code sentence.  
+```  
+When you add the compute programming language name，you can get surprising effect.  
+```
+\`\`\` java  
+public class Test{
+	public static void main(String[] arg){  
+		System.out.println("Hello World");  
+	}  
+}
+\`\`\`  
+```  
+**For example**:  
+``` java
+public class Test {  
+    public static void main(String[] args) {  
+        System.out.println("Hello World");  
+    }  
+}  
+```  
 
 ***
 # Reference  
