@@ -248,8 +248,20 @@ The rule is as follow:
 |pipe|1|234|  
 
 ***  
-
-
+### Escape character  
+Sometimes we use some special symbols ,like \#,\+ and so on. We will use escape charater to show them. I list some escape characers.  
+```
+\\  
+\`  
+\*  
+\_  
+\+  
+\#  
+\.  
+\~  
+```  
+**For example**:  
+\\,\`,\*,\_,\+,\#,\.,\~  
 
 ***
 # Reference  
