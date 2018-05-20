@@ -198,25 +198,23 @@ There are three forms:
 ___  
 ### Code block  
 * code sentence  
-Use symbol '\' \''  
+Use symbol \' \'  
 **For example**:  
 `This is a code sentence.`  
 * code block  
-use symbol `\'\'\'  \'\'\'`  
+use symbol \`\`\` \`\`\`  
 ```
 This is a code sentence.  
 There is also a code sentence.  
 ```  
 When you add the compute programming language name，you can get surprising effect.  
-```
-\`\`\` java  
+\`\`\`java  
 public class Test{
 	public static void main(String[] arg){  
 		System.out.println("Hello World");  
 	}  
 }
 \`\`\`  
-```  
 **For example**:  
 ``` java
 public class Test {  
