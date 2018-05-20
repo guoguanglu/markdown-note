@@ -175,6 +175,8 @@ rule :
 **For example**:  
 [baidu][123]  
 [123]: http://www.baidu.com "click baidu, knowe everything"  
+
+***
 ### Cite  
 ```
 1. > level1 cite  
@@ -196,6 +198,8 @@ There are three forms:
 ---  
 ***  
 ___  
+
+***
 ### Code block  
 * code sentence  
 Use symbol \' \'  
@@ -224,6 +228,27 @@ public class Test {
     }  
 }  
 ```  
+
+***
+### Table  
+The rule is as follow:  
+```
+|title1|title2|title3|  
+|:-----(Left alignment)|-------:(right alignment)|:-----:(middle alignment)|  
+|content|content|content|  
+|content|content|content|
+.....
+```  
+**For example**:  
+|item|value|number|  
+|:----|-----:|:-----|  
+|computer|1600|5|  
+|phone|12|12|  
+|pipe|1|234| 
+
+***  
+
+
 
 ***
 # Reference  
