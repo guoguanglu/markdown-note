@@ -11,7 +11,7 @@ QQ: 2360889142**
 ***  
 ## Content  
 -------
-* [Basic principle](basic principle)  
+* [Basic principle](basic-principle)  
 	* [Header](#header)  
 	* [List](#list)  
 		* Unordered list
@@ -33,14 +33,50 @@ Basic principle
 # Header1  
 ## Header2  
 ### Header3  
+
 ***  
 ### List  
-* Unordered list
+* Unordered list  
+You can use symbol `*,+,-`.  
+```
+* list1  
++ list2  
+- list3  
+```  
+**For example**:  
+* list1  
++ list2  
+- list3  
+You can keep on using list in a list.  
+**For example**:  
+* list1  
+	* list1.1  
+* Ordered list  
+Use 'number+'.'' shows ordered lists.  
+'''
+1. list1  
+2. list2  
+3. and so on ....
+'''  
+**For example**:  
+1. list1  
+2. list2  
 
+***  
 ### Newline 
 1. single 'enter' represents space, not newline  
 2. continous 'enter' can get a new line  
-3. 
+3. And you can use two space in the end of the line, then one 'enter' can realize a newline.  
+**For example**:  
+Hello world!  
+Have a good time!  
+or  
+hello world!
+
+Have a good time!  
+
+***
+
 
 ***
 # Reference  
