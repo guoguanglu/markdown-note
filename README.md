@@ -47,11 +47,13 @@ You can use symbol `*,+,-`.
 * list1  
 + list2  
 - list3  
+
 You can keep on using list in a list.  
 **For example**:  
 * list1  
 	* list1.1  
 * Ordered list  
+
 Use 'number+'.'' shows ordered lists.  
 '''
 1. list1  
