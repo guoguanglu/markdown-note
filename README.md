@@ -141,7 +141,6 @@ rule of linking headers in the same file: `[link name](#header)`
 **For example**:  
 [Content](#content)  
 [Text format](#text-format)  
-
 * Image link  
 the rule: `![replace text](the site of link "link title")`  
 ```
@@ -156,7 +155,6 @@ the rule: `[![]()]()`
 ```
 **For example**:  
 [![](https://www.baidu.com/img/bd_logo1.png "click baidu, know everything")](http://www.baidu.com "baidu")  
-
 * Indirect link  
 rule :  
 ```
@@ -168,7 +166,7 @@ rule :
 2. [123]:http://www.baidu.com "click baidu, knowe everything"  
 ```  
 **For example**:  
-[baidu][nihao]  
+[baidu][123]  
 [123] : http://www.baidu.com "click baidu, knowe everything"  
 
 ***
