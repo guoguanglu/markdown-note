@@ -55,11 +55,11 @@ You can keep on using list in a list.
 * Ordered list  
 
 Use 'number+'.'' shows ordered lists.  
-'''
+```
 1. list1  
 2. list2  
 3. and so on ....
-'''  
+```
 **For example**:  
 1. list1  
 2. list2  
@@ -74,6 +74,7 @@ Hello world!
 Have a good time!  
 or  
 hello world!
+
 
 Have a good time!  
 
