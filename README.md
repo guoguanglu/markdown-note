@@ -242,10 +242,10 @@ The rule is as follow:
 **For example**:  
 
 |item|value|number|  
-|:--------|--------:|:--：|  
-|computer|1600|5|  
-|phone|12|12|  
-|pipe|1|234|  
+|:--------|--------:|:--:|  
+|computer |1600 |5|   
+|phone|12|12|   
+|pipe|1|234|   
 
 ***  
 
