@@ -167,7 +167,8 @@ rule :
 ```  
 **For example**:  
 [baidu][123]  
-[123] : http://www.baidu.com "click baidu, knowe everything"  
+
+[123]: http://www.baidu.com "click baidu, knowe everything"  
 
 ***
 # Reference  
