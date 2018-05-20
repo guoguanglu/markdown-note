@@ -21,6 +21,10 @@ QQ: 2360889142**
 		* Italic  
 		* Bold + italic  
 		* delect  
+	* [Link](#link)  
+		* Text link  
+		* Image link  
+	
 	
 	
 
@@ -118,6 +122,31 @@ use the following format:
 ~~delect~~  
 
 ***  
+### Link  
+* Text link  
+rule of linking sites: [link name](the site of link "link title")
+```
+1. [baidu](http://www.baidu.com "baidu")
+```  
+**For example**:  
+[baidu](http://www.baidu.com "baidu")
+rule of linking headers in the same file: [link name](#header)  
+**Note**: the contents of the brackets must lower letters ，and space must be replaced by `-`or`+`or`%20`  
+```
+1. [Content](#content)  
+2. [Text format](#text-format)  
+```  
+**For example**:  
+[Content](#content)  
+[Text format](#text-format)  
+* Image link  
+the rule: ![replace text](the site of link "link title")  
+```
+1. ![baidu](https://www.baidu.com/img/bd_logo1.png "click baidu, know everything")  
+```  
+**For example**:  
+![baidu](https://www.baidu.com/img/bd_logo1.png "click baidu, know everything")  
+
 
 
 ***
