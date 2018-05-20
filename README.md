@@ -24,6 +24,8 @@ QQ: 2360889142**
 	* [Link](#link)  
 		* Text link  
 		* Image link  
+		* Image link site
+		* Indirectly link
 	
 	
 	
@@ -140,14 +142,32 @@ rule of linking headers in the same file: `[link name](#header)`
 [Content](#content)  
 [Text format](#text-format)  
 * Image link  
-the rule: ![replace text](the site of link "link title")  
+the rule: `![replace text](the site of link "link title")`  
 ```
 1. ![baidu](https://www.baidu.com/img/bd_logo1.png "click baidu, know everything")  
 ```  
 **For example**:  
 ![baidu](https://www.baidu.com/img/bd_logo1.png "click baidu, know everything")  
-
-
+* Image link site
+the rule: `[![]()]()` 
+```
+1. [![](https://www.baidu.com/img/bd_logo1.png "click baidu, know everything")](http://www.baidu.com "baidu")  
+```
+**For example**:  
+[![](https://www.baidu.com/img/bd_logo1.png "click baidu, know everything")](http://www.baidu.com "baidu")  
+* Indirect link  
+rule :  
+```
+[link name][label]  
+[label]: the site of link "link title"  
+```  
+```
+1. [baidu][123]  
+2. [123]:http://www.baidu.com "click baidu, knowe everything"  
+```  
+**For example**:  
+[baidu][123]  
+[123]:http://www.baidu.com "click baidu, knowe everything"  
 
 ***
 # Reference  
