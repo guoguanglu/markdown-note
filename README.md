@@ -272,5 +272,5 @@ https://github.com/guodongxiaren/README
 https://blog.csdn.net/sun8112133/article/details/79871702  
 
 ------------------------------------  
-[github.io]: https://github.com/guoguanglu/guoguanglu.github.io 'jump to guoguanglu github.io'
+[github.io]: https://guoguanglu.github.io 'jump to guoguanglu github.io'
 
