@@ -3,13 +3,13 @@ This is my note about markdown when I write README. This is a easy resource abou
 ***  
 ![](/image/markdown_log.jpg)  
 
-***  
-[**Back to github.io**][github.io]  
-
 ***
 **Author: Guo Guanglu  
 E-mail: 2360889142@qq.com  
 QQ: 2360889142**  
+
+***  
+[**Back to github.io**][github.io]  
 
 ***  
 ## Content  
