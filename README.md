@@ -3,6 +3,9 @@ This is my note about markdown when I write README. This is a easy resource abou
 ***  
 ![](/image/markdown_log.jpg)  
 
+***  
+[**Back to github.io**][github.io]  
+
 ***
 **Author: Guo Guanglu  
 E-mail: 2360889142@qq.com  
@@ -268,4 +271,6 @@ Sometimes we use some special symbols ,like \#,\+ and so on. We will use escape 
 https://github.com/guodongxiaren/README  
 https://blog.csdn.net/sun8112133/article/details/79871702  
 
+------------------------------------  
+[github.io]: https://github.com/guoguanglu/guoguanglu.github.io 'jump to guoguanglu github.io'
 
